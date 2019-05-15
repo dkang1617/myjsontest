@@ -10,7 +10,8 @@
 			"meetimeendone":"2015-05-06T15:15:00",
 			"meetingdaytwo":"W",
 			"meetingtimetwo":"2015-05-08T14:00:00",
-			"meetingendtwo":"2015-05-08T15:15:00"
+			"meetingendtwo":"2015-05-08T15:15:00",
+			"building":"Phelps Hall"
 		},
 
 		{
@@ -22,7 +23,8 @@
 			"meetingendone":"2015-05-06T18:15:00",
 			"meetingdaytwo":"W",
 			"meetingtimetwo":"2015-05-08T17:00:00",
-			"meetingendtwo":"2015-05-08T18:15:00"
+			"meetingendtwo":"2015-05-08T18:15:00",
+			"building":"Phelps Hall"
 		},
 
 		{
@@ -34,7 +36,8 @@
 			"meetingendone":"2015-05-07T10:45:00",
 			"meetingdaytwo":"R",
 			"meetingtimetwo":"2015-05-09T9:30:00",
-			"meetingendtwo":"2015-05-09T10:45:00"
+			"meetingendtwo":"2015-05-09T10:45:00",
+			"building":"Department of Chemistry and Biochemistry"
 		},
 
 		{
@@ -46,7 +49,8 @@
 			"meetingendone":"2015-05-06T12:15:00",
 			"meetingdaytwo":"W",
 			"meetingtimetwo":"2015-05-08T11:00:00",
-			"meetingendtwo":"2015-05-08T12:15:00"
+			"meetingendtwo":"2015-05-08T12:15:00",
+			"building":"Buchanan Hall"
 		}
 	]
 }
